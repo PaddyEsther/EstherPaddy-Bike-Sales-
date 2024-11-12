@@ -1,0 +1,11 @@
+👋 Hello, I'm Esther Paddy
+- Welcome to my GitHub profile! I'm an aspiring Data Analyst with skills in SQL, Advanced Excel, and PowerBi. 
+- I'm passionate about transforming data into insights and have completed various hands-on projects in areas such as utility usage and sales analysis.
+- Education : Master's in Public Health(In progress), Data Analytics, Bachelor of Science in Physician Assistantship
+- Skills & Tools : Data Analytics(SQL, Advanced Excel, PowerBi, DAX), Data visualisation(PowerBi and Excel dashboard)
+- Projects : Utility usage analysis, Adventure bike sales, Pizza sales analysis
+- I’m currently expanding my data analysis portfolio with more projects, honing my skills in SQL, Excel and PowerBi.
+- Reach me :
+- LinkedIn : https://www.linkedin.com/in/esther-p-0883a8150?trk=contact-info
+- Email : estherpaddy2@gmail.com
+- Thank you for stopping by!
